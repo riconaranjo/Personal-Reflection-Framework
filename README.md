@@ -7,9 +7,9 @@ The regularity of these reviews is critical, as this is what allows for constant
 It is designed to help you be cognizant of how long it takes to accomplish tasks, and thus improve your planning skills. It will allow you to think about how you can improve, why you are not accomplishing what you think you should be able to, and most importantly it will help you live a truly fulfilling life.
 
 # Goals and Tasks
-**Goals** are higher level objectives [e.g. write a book]
-**Goals** can be broken up into smaller goals [e.g. write chapter 1]
-**Tasks** are the actionable components of goals [e.g. write 10 pages this week]
+**Goals** are higher level objectives [e.g. write a book]</br>
+**Goals** can be broken up into smaller goals [e.g. write chapter 1]</br>
+**Tasks** are the actionable components of goals [e.g. write 10 pages this week]</br>
 
 # Yearly
 Review to be done either late december or early january. It is also to be done alongside, not replacing a regular monthly review, nor a weekly review, but it does not need to be completed at the same time as either of these.
