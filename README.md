@@ -36,6 +36,11 @@ Review to be done either late december or early january. It is also to be done a
 # Monthly
 Review to be done in the first week of the month. It can be done alongside, after, or instead of the weekly review.
 
+## Purpose
+1. Reflect on how last month went, and large goal progress
+2. Reflect on organizational system
+2. Break down large goals into series of smaller goals
+
 1. What were my goals this month?
 	- Create a list, [include deadlines].
 2. How did these goals go?
@@ -58,6 +63,11 @@ Review to be done in the first week of the month. It can be done alongside, afte
 # Weekly
 Review to be done at the end of the week, ideally on friday, saturday, or sunday.
 
+## Purpose
+1. Reflect on how last week went
+2. Break down goals / tasks into actionable items
+3. Allocate time for these actionable items
+
 1. What were my tasks this week?
 	- Create a list, [include deadlines]
 2. How did these tasks go?
@@ -66,7 +76,7 @@ Review to be done at the end of the week, ideally on friday, saturday, or sunday
 	- General thoughts?
 3. What went well this week?
 	- Why?
-4. What could have gone better?
+4. What could use improvement?
 	- What could you have done instead?
 5. What tasks do I need to get done this week?
 	- Prioritize these tasks.
