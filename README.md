@@ -25,25 +25,25 @@ Review to be done at the end of the week, ideally on friday, saturday, or sunday
 
 ## Steps
 
-1. List last week's tasks.
-2. Review / reflect on these tasks.
+1. **List last week's tasks.**
+2. **Review / reflect on these tasks.**
    - Accomplished?
    - Issues?
    - How could it have gone better?
-3. What went well?
+3. **What went well?**
    - Why?
-4. What could be improved?
+4. **What could be improved?**
    - How?
-5. Are there any upcoming challenges?
+5. **Are there any upcoming challenges?**
    - Look at the next two weeks.
    - How can I prepare?
-6. List out next week's tasks.
+6. **List out next week's tasks.**
    - What is urgent and important?
    - What else should get done this week?
    - Rank these by priority.
-7. Break down these tasks into point-form steps.
+7. **Break down these tasks into point-form steps.**
    - Define what success is for this task.
-8. Add tasks / deadlines to your calendar.
+8. **Add tasks / deadlines to your calendar.**
 
 # Monthly
 
@@ -58,40 +58,40 @@ Review to be done in the first week of the month. It can be done alongside, afte
 
 ## Steps
 
-1. Review weekly / monthly reflection procedure
-2. List last month's goals.
-3. Review / reflect on these goals.
+1. **Review reflection procedure / organizational system**
+2. **List last month's goals.**
+3. **Review / reflect on these goals.**
    - Accomplished / on-track?
    - Issues?
-4. Am I satisfied with my progress?
+4. **Am I satisfied with my progress?**
    - Modify / add / remove future goals?
    - Are there any goals that should be prioritized more?
-5. What should I focus on this month?
+5. **What should I focus on this month?**
    - What goals need to get done this month?
    - Do I have the capacity for these goals?
    - Define what success for this goal.
-6. What changes would I like to see in my life?
+6. **What changes would I like to see in my life?**
    - How can I make these a part of my life?
 
 # Yearly
 
 Review to be done either late december or early january. It is also to be done alongside, not replacing a regular monthly review, nor a weekly review, but it does not need to be completed at the same time as either of these.
 
-1. What were my goals this year?
+1. **What were my goals this year?**
     - Create a list, with deadlines if applicable.
     - Did I succeed or fail with each one?
     - What were the reasons for success / failure?
     - How can I increase my probabilities of success?
     - How can I mitigate the reasons for failure?
-2. Prioritize + review ongoing goals.
+2. **Prioritize + review ongoing goals.**
     - Should any be modified / added / removed?
     - Do I need to change any deadlines?
     - Do I have the capacity for all these goals?
-3. Am I satisfied with the progress of my goals this year?
+3. **Am I satisfied with the progress of my goals this year?**
     - What should I keep doing / change this year?
-4. Are there any challenges coming up this year?
+4. **Are there any challenges coming up this year?**
     - How can I prepare for this?
     - How can I overcome these?
-5. What changes do I want to see in my life?
+5. **What changes do I want to see in my life?**
     - How can I make these changes a part of my life?
     - What should my theme / focus be for the year?
