@@ -17,7 +17,7 @@ There are **four types** of reflections. Consistently performing these reviews i
 
 # Daily
 
-These should be short – about 2-10 min – and should cover both what you did that day, and what you want to get done tomorrow.
+These should be short — about 2-10 min — and should cover both what you did that day, and what you want to get done tomorrow.
 
 1. **Review today’s tasks**
 	- _Which tasks did you **complete**?_
@@ -36,13 +36,13 @@ These should be short – about 2-10 min – and should cover both what you did 
 
 # Weekly
 
-These are a bit longer, about –about 5-30 min – and cover the main goals you wanted to get done that week, and what you want to get done in the next week.
+These are a bit longer, about — about 5-30 min — and cover the main goals you wanted to get done that week, and what you want to get done in the next week.
 
 You should give each task a day you plan to finish it by, that way you can plan out what your workload will be during the week.
 
 1. **Review your weekly tasks**
 	- _Which tasks did you **complete**?_
-	- _Which ones did you** not complete**?_
+	- _Which ones did you **not complete**?_
 2. **Write a few points**
 	- What were the **highlights** of the week?
 	- _What **went well**? Why?_
